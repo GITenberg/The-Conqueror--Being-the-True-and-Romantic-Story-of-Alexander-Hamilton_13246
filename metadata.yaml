@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/263
     wikipedia: http://en.wikipedia.org/wiki/Gertrude_Atherton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13246#The-Conqueror--Being-the-True-and-Romantic-Story-of-Alexander-Hamilton
 gutenberg_issued: '2004-08-22'
 gutenberg_type: Text
 identifiers:
