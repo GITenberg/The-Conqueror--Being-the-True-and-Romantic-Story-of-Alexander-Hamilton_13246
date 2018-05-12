@@ -1,0 +1,30 @@
+_repo: The-Conqueror--Being-the-True-and-Romantic-Story-of-Alexander-Hamilton_13246
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Atherton, Gertrude Franklin Horn
+    aliases:
+    - Lin, Frank
+    - Horn, Gertrude Franklin
+    birthdate: 1857
+    deathdate: 1948
+    gutenberg_agent_id: '263'
+    url: http://www.gutenberg.org/2009/agents/263
+    wikipedia: http://en.wikipedia.org/wiki/Gertrude_Atherton
+description: ''
+gutenberg_issued: '2004-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13246'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Hamilton, Alexander, 1757-1804 -- Fiction'
+title: 'The Conqueror: Being the True and Romantic Story of Alexander Hamilton'
+url: http://www.gutenberg.org/ebooks/13246
